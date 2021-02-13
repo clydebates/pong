@@ -1,0 +1,14 @@
+{
+  "name": "pong",
+  "version": "1.0.0",
+  "description": "A basic pong game",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Clyde Bates",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^1.0.0"
+  }
+}
